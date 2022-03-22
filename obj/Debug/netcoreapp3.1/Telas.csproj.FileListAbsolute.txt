@@ -1,0 +1,40 @@
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\obj\Debug\netcoreapp3.1\Telas.csprojAssemblyReference.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfoInputs.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfo.cs
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\obj\Debug\netcoreapp3.1\Telas.csproj.CoreCompileInputs.cache
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\bin\Debug\netcoreapp3.1\Telas.exe
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\bin\Debug\netcoreapp3.1\Telas.deps.json
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.json
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.dev.json
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\bin\Debug\netcoreapp3.1\Telas.dll
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\bin\Debug\netcoreapp3.1\Telas.pdb
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\obj\Debug\netcoreapp3.1\Telas.dll
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\obj\Debug\netcoreapp3.1\Telas.pdb
+C:\Users\ana.stadelhofer\Documents\Java\Donet\Tela\Telas\obj\Debug\netcoreapp3.1\Telas.genruntimeconfig.cache
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\bin\Debug\netcoreapp3.1\Telas.exe
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\bin\Debug\netcoreapp3.1\Telas.deps.json
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.json
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.dev.json
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\bin\Debug\netcoreapp3.1\Telas.dll
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\bin\Debug\netcoreapp3.1\Telas.pdb
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.csproj.AssemblyReference.cache
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfoInputs.cache
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfo.cs
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.csproj.CoreCompileInputs.cache
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.dll
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.pdb
+C:\Users\ana.stadelhofer\Documents\Dotnet\Telas\obj\Debug\netcoreapp3.1\Telas.genruntimeconfig.cache
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\obj\Debug\netcoreapp3.1\Telas.csprojAssemblyReference.cache
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfoInputs.cache
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\obj\Debug\netcoreapp3.1\Telas.AssemblyInfo.cs
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\obj\Debug\netcoreapp3.1\Telas.csproj.CoreCompileInputs.cache
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\obj\Debug\netcoreapp3.1\Telas.dll
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\obj\Debug\netcoreapp3.1\Telas.pdb
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\bin\Debug\netcoreapp3.1\Telas.exe
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\bin\Debug\netcoreapp3.1\Telas.deps.json
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.json
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\bin\Debug\netcoreapp3.1\Telas.runtimeconfig.dev.json
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\bin\Debug\netcoreapp3.1\Telas.dll
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\bin\Debug\netcoreapp3.1\Telas.pdb
+C:\Users\Eric Araújo\Documents\TelasDentista\Telas\obj\Debug\netcoreapp3.1\Telas.genruntimeconfig.cache
